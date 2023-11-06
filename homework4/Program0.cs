@@ -2,7 +2,7 @@
 
 public class Program
 {
-    public enum MathActions//перечисление арифметических операций
+    enum MathActions//перечисление арифметических операций
     {
         Plus = '+',
         Minus = '-',
